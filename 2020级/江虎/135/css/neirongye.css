@@ -1,0 +1,139 @@
+header,section,footer{
+	margin: 0 auto;
+	padding:0;
+	width: 960px;
+	display: flex;
+    height: auto;
+}
+a{
+	text-decoration:none
+}
+header{
+	background-color: #696767;
+	height: 80px;
+	width: 960px;
+}
+.wangzhantubiao{
+	height: 10px;
+	width: auto;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 5px;
+}
+.wangzhanmingcheng{
+	font-family: "方正姚体";
+	width: 360px;
+	display: inline;
+	height: 30px;
+	font-size: 65px;
+}
+.yuanjiaojuxingone{
+	border-radius: 18px;
+	width: 120px;
+	height: 76px;
+	margin-top: 1.5px;
+	margin-bottom: 0px;
+	margin-left: 280px;
+	background-color: #c9c9c9;
+	text-align: center;
+	font-size: 50px;
+}
+.yuanjiaojuxingtwo{
+	border-radius: 18px;
+	width: 120px;
+	height: 76px;
+	margin-top: 1.5px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	margin-right: 10px;
+	background-color: #c9c9c9;
+	text-align: center;
+	font-size: 50px;
+}
+.banner{
+	background-color: #d40000;
+	margin:5px auto;
+	width: 960px;
+	height: 95px;
+	text-align: center;
+	font-size: 75px;
+	color: #ffff00;
+}
+.youxijieshou{
+	margin: 0;
+	padding: 0;
+	width: 960px;
+	height: auto;
+	background-color: #696767;
+}
+.mc{
+	width: 960px;
+	height: 50px;
+	font-size: 35px;
+
+}
+.sp{
+	margin: 0px;
+	width: 960px;
+}
+.tp{
+	width: 360px;
+	height: 200px;
+	float: left;
+}
+.wz{
+	width: 600px;
+	height: 200px;
+	font-size: 35px;
+	color: #C8C8C8;
+	float: left;
+}
+.wztwo{
+	width: 600px;
+	height:auto;
+	background-color: #696767;
+	color: #ACB2BB;
+	float: left;
+}
+.wztwo p{
+	color: #4A00DF;
+	font-size: 20px;
+}
+.wztwo li{
+	list-style:none;
+	text-indent: 2em;
+	text-align:justify;
+}
+.pz{
+	margin-top: 18px;
+	width: 300px;
+	margin-left: 15px;
+	float: left;
+	background-color: #d0cdcd;
+}
+.pztwo{
+	width: 300px;
+	margin-left: 15px;
+	margin-top: 30px;
+	float: left;
+	background-color: #d0cdcd;
+}
+.pz p{
+	font-size: 10px;
+	color: #D40000;
+}
+.dibu{
+	margin: 0;
+	padding: 0;
+	width: 960px;
+	height: 60px;
+	background-color: #c8c8c8;
+	text-align: center;
+	font-size: 45px;
+	color: #4a00df;
+}
+.q{
+	margin: 0 auto;
+	width: 960px;
+	height: 570px;
+}

@@ -1,0 +1,106 @@
+header,section,footer{
+	margin: 0 auto;
+	padding:0;
+	width: 960px;
+	display: flex;
+    height: auto;
+}
+a{
+	text-decoration:none
+}
+header{
+	background-color: #696767;
+	height: 80px;
+	width: 960px;
+}
+.wangzhantubiao{
+	height: 10px;
+	width: auto;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 5px;
+}
+.wangzhanmingcheng{
+	font-family: "方正姚体";
+	width: 360px;
+	display: inline;
+	height: 30px;
+	font-size: 65px;
+}
+.yuanjiaojuxing{
+	border-radius: 35px;
+	width: 260px;
+	height: 76px;
+	margin-top: 1.5px;
+	margin-bottom: 0px;
+	margin-left: 265px;
+	background-color: #c9c9c9;
+	text-align: center;
+	font-size: 50px;
+}
+.banner{
+	background-color: #d40000;
+	margin:5px auto;
+	width: 960px;
+	height: 95px;
+	text-align: center;
+	font-size: 75px;
+	color: #ffff00;
+}
+section{
+	width: 960px;
+	background-color: #d8d5d5;
+	height: auto;
+}
+.l{ 
+	display: inline;
+	width: 960px;
+	height: auto;
+	background-color: #696767;
+	margin: 0;
+	font-size: 16px;
+}
+.wenzione{
+	display: inline;
+	height: 50px;
+	margin: 0px ;
+	width: 320px;
+	font-size: 14px;
+	background-color: #acb2bb;
+	float: left;
+	text-align: center;
+	color: #4A00DF;
+	font-size: 24px;
+}
+.wenzitwo{
+	display: inline;
+	height: 50px;
+	margin: 0px ;
+	width: 320px;
+	font-size: 14px;
+	background-color: #acb2bb;
+	float: left;
+	text-align: center;
+	color: #4A00DF;
+	font-size: 24px;
+}
+.wenzithree{
+	display: inline;
+	height: 50px;
+	margin: 0px ;
+	width: 320px;
+	font-size: 24px;
+	background-color: #acb2bb;
+	float: left;
+	text-align: center;
+	color: #4A00DF;
+	font-size: 24px;
+}
+.dibu{
+	width: 960px;
+	height: 60px;
+	background-color: #c8c8c8;
+	text-align: center;
+	font-size: 45px;
+	color: #4a00df;
+}
